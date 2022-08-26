@@ -5,5 +5,5 @@ userids = {
 }
 return userids
 
--- айди игрока это цифры после /users/
+-- айди игрока это цифры после /users/л
 -- https://www.roblox.com/users/123456789/profile
